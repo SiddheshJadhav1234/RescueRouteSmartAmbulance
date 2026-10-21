@@ -1,0 +1,6 @@
+{
+  "name": "RescueRoute - Smart Emergency Dispatch",
+  "description": "Smart emergency response and ambulance dispatch simulator using graph algorithms and priority queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
